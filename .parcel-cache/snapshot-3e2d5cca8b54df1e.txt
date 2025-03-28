@@ -19,7 +19,7 @@
 121C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\.package-lock.json133876409317641384 0
 136C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\semver\functions\compare-loose.js133876408228443341 0
 143C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\bootstrap\scss\mixins\_color-scheme.scss133876408684703377 0
-102C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\package.json133876435065998787 0
+102C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\package.json133876437240880430 0
 134C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\caniuse-lite\data\regions\TO.js133876408257164867 0
 119C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\domutils\LICENSE133876408219303210 0
 141C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@swc\helpers\cjs\_set_prototype_of.cjs133876408239041317 0
