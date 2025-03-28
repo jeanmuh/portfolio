@@ -1,4 +1,4 @@
-6896
+6902
 136C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\semver\functions\compare-loose.js133876408228443341 0
 143C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\bootstrap\scss\mixins\_color-scheme.scss133876408684703377 0
 102C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\package.json133876437240880430 0
@@ -18,7 +18,7 @@
 158C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@fortawesome\fontawesome-free\svgs\brands\microblog.svg133876409303720763 0
 153C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@fortawesome\fontawesome-free\svgs\regular\sun.svg133876409311449353 0
 107C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\package-lock.json133876409317441252 0
-94C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist133876437794348066 1
+94C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist133876438312298111 1
 118C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\chalk\readme.md133876408227527547 0
 156C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@popperjs\core\lib\dom-utils\getWindowScrollBarX.d.ts133876408682259807 0
 164C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@fortawesome\fontawesome-free\svgs\regular\calendar-xmark.svg133876409290121028 0
@@ -2647,6 +2647,7 @@
 166C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-dress-burst.svg133876409305730265 0
 139C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@parcel\transformer-posthtml\LICENSE133876408220891971 0
 130C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\entities\lib\index.d.ts.map133876408236003361 0
+129C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist\portfolio-project.8266d309.css.map133876438312278273 0
 132C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\caniuse-lite\data\features.js133876408249913744 0
 124C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\entities\lib\index.js133876408231482095 0
 147C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\entities\lib\generated\decode-data-html.d.ts133876408236874900 0
@@ -4316,6 +4317,7 @@
 145C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@popperjs\core\lib\utils\orderModifiers.js133876408683492021 0
 157C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@swc\helpers\_\_object_without_properties\package.json133876408249633219 0
 151C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@swc\helpers\_\_object_spread_props\package.json133876408249563522 0
+128C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist\portfolio-project.c643c8b7.js.map133876438312278273 0
 158C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@swc\helpers\_\_object_destructuring_empty\package.json133876408249407072 0
 141C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@parcel\types-internal\lib\unsafe.d.ts133876408232774968 0
 151C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@swc\helpers\_\_non_iterable_spread\package.json133876408249407072 0
@@ -6397,7 +6399,7 @@
 160C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@fortawesome\fontawesome-free\svgs\solid\shield-virus.svg133876409309088998 0
 152C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@fortawesome\fontawesome-free\svgs\solid\ship.svg133876409309088998 0
 154C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@fortawesome\fontawesome-free\svgs\solid\shrimp.svg133876409309334813 0
-117C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist\portfolio-project.html133876437793880563 0
+117C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist\portfolio-project.html133876438311848077 0
 157C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@fortawesome\fontawesome-free\svgs\solid\signature.svg133876409309432588 0
 158C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@fortawesome\fontawesome-free\svgs\solid\signs-post.svg133876409309442628 0
 152C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\@fortawesome\fontawesome-free\svgs\solid\sink.svg133876409309485387 0
@@ -6892,6 +6894,10 @@
 130C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\.bin\update-browserslist-db133876408269565129 0
 134C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\node_modules\.bin\update-browserslist-db.cmd133876408269555145 0
 124C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist\portfolio-project.6de9cef5.js133876437794207394 0
+125C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist\portfolio-project.8266d309.css133876438311858931 0
 125C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist\portfolio-project.ab0485ab.css133876437793789974 0
 129C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist\portfolio-project.ab0485ab.css.map133876437794090809 0
+124C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist\portfolio-project.c643c8b7.js133876438311848077 0
 128C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist\portfolio-project.cc073436.js.map133876437793622647 0
+125C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist\portfolio-project.cd33f8b3.css133876438311848077 0
+129C:\Users\Muhire\Desktop\NucampFolder\NucampFolder\WebDev\1-Web-Dev-Fundamentals\portfolio\dist\portfolio-project.cd33f8b3.css.map133876438312272899 0
